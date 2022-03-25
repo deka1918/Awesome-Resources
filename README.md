@@ -24,14 +24,6 @@
 </div>
 
 ## Contents
- 
-
-- [Awesome A](#awesome-a)
-- [Awesome B](#awesome-b)
-- [Awesome C](#awesome-c)
-- [Awesome D](#awesome-d)
-- [Awesome E](#awesome-e)
-
 
 ## Awesome A [▲](#contents)
 
