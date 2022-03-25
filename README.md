@@ -24,14 +24,8 @@
 </div>
 
 ## Contents
-
-- [Awesome A](#awesome-a) - [Awesome C](#awesome-c)
-- [Awesome B](#awesome-b) - [Awesome A](#awesome-a)
-
   
-  
-- [A](#awesome-A)
-- [B](Awesome-B) - [C](Awesome-C) - [D](Awesome-D) - [E](Awesome-E) - [F](Awesome-F) - [G](Awesome-G) - [H](Awesome-H) - [I](Awesome-I) - [J](Awesome-J) - [K](Awesome-K) - [L](Awesome-L) - [M](Awesome-M) - [N](Awesome-N) - [O](Awesome-O) - [P](Awesome-P) - [Q](Awesome-Q) - [R](Awesome-R) - [S](Awesome-S) - [T](Awesome-T) - [U](Awesome-U) - [V](Awesome-V) - [W](Awesome-W) - [X](Awesome-X) - [Y](Awesome-Y) - [Z](Awesome-Z)
+- [A](#awesome-a) - [B](#awesome-c) - [C](Awesome-C) - [D](Awesome-D) - [E](Awesome-E) - [F](Awesome-F) - [G](Awesome-G) - [H](Awesome-H) - [I](Awesome-I) - [J](#Awesome-j) - [K](Awesome-K) - [L](Awesome-L) - [M](Awesome-M) - [N](Awesome-N) - [O](Awesome-O) - [P](Awesome-P) - [Q](Awesome-Q) - [R](Awesome-R) - [S](Awesome-S) - [T](Awesome-T) - [U](Awesome-U) - [V](Awesome-V) - [W](Awesome-W) - [X](Awesome-X) - [Y](Awesome-Y) - [Z](Awesome-Z)
 
 
 ## Awesome A [▲](#contents)
