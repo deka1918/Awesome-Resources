@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/qI1Jfyl.gif" align="right" width="100%" />
 
-![cover](https://github.com/deka1918/Awesome/blob/main/Cover.png?raw=true)
+![cover](https://github.com/deka1918/Awesome-Resources/blob/main/Cover.png?raw=true)
 
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
