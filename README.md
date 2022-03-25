@@ -21,14 +21,16 @@
   
 <h2><b> Always stay ethical and have fun! <b></h2>
 
-# Contents
-  
-<h3>
-
-[A](Awesome-A) - [B](Awesome-B) - [C](Awesome-C) - [D](Awesome-D) - [E](Awesome-E) - [F](Awesome-F) - [G](Awesome-G) - [H](Awesome-H) - [I](Awesome-I) - [J](Awesome-J) - [K](Awesome-K) - [L](Awesome-L) - [M](Awesome-M) - [N](Awesome-N) - [O](Awesome-O) - [P](Awesome-P) - [Q](Awesome-Q) - [R](Awesome-R) - [S](Awesome-S) - [T](Awesome-T) - [U](Awesome-U) - [V](Awesome-V) - [W](Awesome-W) - [X](Awesome-X) - [Y](Awesome-Y) - [Z](Awesome-Z)
-
-</h3>
 </div>
+
+## Contents
+
+- [Awesome A](#awsome-a)
+- [Awesome B](#awsome-b)
+  
+- [A](#awesome-A)
+- [B](Awesome-B) - [C](Awesome-C) - [D](Awesome-D) - [E](Awesome-E) - [F](Awesome-F) - [G](Awesome-G) - [H](Awesome-H) - [I](Awesome-I) - [J](Awesome-J) - [K](Awesome-K) - [L](Awesome-L) - [M](Awesome-M) - [N](Awesome-N) - [O](Awesome-O) - [P](Awesome-P) - [Q](Awesome-Q) - [R](Awesome-R) - [S](Awesome-S) - [T](Awesome-T) - [U](Awesome-U) - [V](Awesome-V) - [W](Awesome-W) - [X](Awesome-X) - [Y](Awesome-Y) - [Z](Awesome-Z)
+
 
 ## Awesome A [▲](#contents)
 
