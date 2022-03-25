@@ -24,8 +24,14 @@
 </div>
 
 ## Contents
-
-## Awesome A [▲](#contents)
+  
+<div align="center">
+  
+[A](#awesome-a) - [B](#awesome-b) - [C](#awesome-c) - [D](#awesome-d) - [E](#awesome-e) - [F](#awesome-f) - [G](#awesome-g) - [H](#awesome-h) - [I](#awesome-i) - [J](#awesome-j) - [K](#awesome-k) - [L](#awesome-l) - [M](#awesome-m) - [N](#awesome-n) - [O](#awesome-o) - [P](#awesome-p) - [Q](#awesome-q) - [R](#awesome-r) - [S](#awesome-s) - [T](#awesome-t) - [U](#awesome-u) - [V](#awesome-v) - [W](#awesome-w) - [X](#awesome-x) - [Y](#awesome-y) - [Z](#awesome-z)
+  
+  </div>
+  
+## Awesome A 
 
   A | Description |
 ----|----|
@@ -42,8 +48,10 @@
 [APT Notes](https://github.com/kbandla/APTnotes)|Various public documents, whitepapers and articles about APT campaigns|
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)|List of Awesome Asset Discovery Resources|
 [Awesome](https://github.com/sindresorhus/awesome)|Awesome lists about all kinds of interesting topics|
- 
-## Awesome B [▲](#contents)
+
+[▲ back to top](#contents)
+  
+## Awesome B
 
   B | Description |
 ----|----|
@@ -53,8 +61,10 @@
 [Bots](https://github.com/DopplerHQ/awesome-bots)|The most awesome list about bots|
 [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)|A list of bug bounty write-up that is categorized by the bug nature|
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)|A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters|
- 
-## Awesome C [▲](#contents)
+
+[▲ back to top](#contents)
+  
+## Awesome C
 
   C | Description |
 ----|----|
@@ -71,7 +81,9 @@
 [CVE PoC](https://github.com/qazbnm456/awesome-cve-poc)|A curated list of CVE PoCs|
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills)|Curated list of hacking environments where you can train your cyber skills legally and safely|
 
-## Awesome D [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome D
  
   D | Description |
 ----|----|
@@ -96,8 +108,9 @@
 [Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)|A collection of AWESOME things about domian adaptation|
 [Dotnet (.NET)](https://github.com/quozd/awesome-dotnet)	|A collection of awesome .NET libraries, tools, frameworks, and software|
 
- 
-## Awesome E [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome E
 
   E | Description |
 ----|----|
@@ -108,8 +121,9 @@
 [Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)|Reading list for research topics in embodied vision|
 [Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)|Resources for learning about Exploit Development| 
 
-
-## Awesome F [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome F
 
   F | Description |
 ----|----|
@@ -121,8 +135,9 @@
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)|Free programming books for developers|
 [Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)|List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis|
 
-
-## Awesome G [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome G
 
   G | Description |
 ----|----|
@@ -134,8 +149,9 @@
 [GraphQL](https://github.com/chentsulin/awesome-graphql)|Awesome list of GraphQL|
 [GTFOBins](https://gtfobins.github.io)|A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions|
 
-
-## Awesome H [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome H
 
    H | Description |
 ----|----|
@@ -149,8 +165,9 @@
 [Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)|Human Pose Estimation Related Publication|
 [Hyper](https://github.com/bnb/awesome-hyper)|Delightful Hyper plugins, themes, and resources|
 
- 
-## Awesome I [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome I
 
    I | Description |
 ----|----|
@@ -168,22 +185,26 @@
 [IOS](https://github.com/vsouza/awesome-ios)|A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects|
 [IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks)|Collection of Hacks in IoT Space|
  
-
-## Awesome J [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome J
 
    J | Description |
 ----|----|
 [Java](https://github.com/akullpp/awesome-java)	|A curated list of awesome Java frameworks, libraries and software|
 [Jupyter](https://github.com/markusschanta/awesome-jupyter)	|A curated list of awesome Jupyter projects, libraries and resources|
 
- 
-## Awesome K [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome K
 
   K | Description |
 ----|----|
 [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) |A curated list for awesome kubernetes sources|
+
+[▲ back to top](#contents)
   
-## Awesome L [▲](#contents)
+## Awesome L
 
   L | Description |
 ----|----| 
@@ -196,8 +217,9 @@
 [Lockpicking](https://github.com/meitar/awesome-lockpicking)|Resources relating to the security and compromise of locks, safes, and keys|
 [Loginless](https://github.com/fiatjaf/awesome-loginless)|an awesome list of internet services that don't require logins or registrations|
 
-
-## Awesome M [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome M
 
   M | Description |
 ----|----|
@@ -213,8 +235,9 @@
 [Math](https://github.com/rossant/awesome-math)|A curated list of awesome mathematics resources|
 [Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)|An effort to build a single place for all useful android and iOS security related stuff|
 
- 
-## Awesome N [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome N
 
    N | Description |
 ----|----|
@@ -226,8 +249,9 @@
 [Newsletters](https://github.com/zudochkin/awesome-newsletters)|A curated list of awesome newsletters|
 [Node.js](https://github.com/sindresorhus/awesome-nodejs)|Curated list the best of node.js modules and resources|
 
-
-## Awesome O [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome O
 
    O | Description |
 ----|----| 
@@ -239,8 +263,9 @@
 [OSINT](https://github.com/jivoi/awesome-osint)|List of amazingly awesome Open Source Intelligence (OSINT) tools and resources|
 [OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome)|OSX and iOS related security tools|
 
+[▲ back to top](#contents)
   
-## Awesome P [▲](#contents)
+## Awesome P
 
    P | Description |
 ----|----|
@@ -260,15 +285,18 @@
 [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)|A topic-centric list of HQ open datasets|
 [Python](https://github.com/vinta/awesome-python)|A curated list of awesome Python frameworks, libraries, software and resources|
 
+[▲ back to top](#contents)
   
-## Awesome Q [▲](#contents)
+## Awesome Q
 
    Q | Description |
 ----|----|
 [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)|A curated list of awesome quantum computing learning and developing resources
 [Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)|A curated list of awesome quantum machine learning algorithms,study materials,libraries and software (by language)|
 
-## Awesome R [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome R
 
    R | Description |
 ----|----|
@@ -288,8 +316,9 @@
 [Robotics](https://github.com/kiloreux/awesome-robotics)|A list of awesome Robotics resources|
 [Ruby](https://github.com/markets/awesome-ruby)|A collection of awesome Ruby libraries, tools, frameworks and software|
 
-
-## Awesome S [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome S
 
    S | Description |
 ----|----|
@@ -314,8 +343,9 @@
 [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)|A collection of links for free stock photography, video and Illustration websites|
 [Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)|A curated list of amazingly awesome open source sysadmin resources|
 
-
-## Awesome T [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome T
 
    T | Description |
 ----|----|
@@ -325,15 +355,17 @@
 [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)|A curated list of Awesome Threat Intelligence resources|
 [Tmux](https://github.com/rothgar/awesome-tmux)|A list of awesome resources for tmux|
 
-
-## Awesome U [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome U
 
    U | Description |
 ----|----| 
 [Unicode](https://github.com/jagracey/Awesome-Unicode)|A curated list of delightful Unicode tidbits, packages and resources|
 
+[▲ back to top](#contents)
   
-## Awesome V [▲](#contents)
+## Awesome V
 
    V | Description |
 ----|----| 
@@ -345,8 +377,9 @@
 [Vulhub](https://github.com/vulhub/vulhub)|Pre-Built Vulnerable Environments Based on Docker-Compose|
 [Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research)|List of resources about Vulnerability Research|
 
-
-## Awesome W [▲](#contents)
+[▲ back to top](#contents)
+  
+## Awesome W
 
    W | Description |
 ----|----| 
@@ -358,23 +391,28 @@
 [Windows](https://github.com/Awesome-Windows/Awesome)|An awesome & curated list of best applications and tools for Windows|
 [WSL - Windows Subsystem for Linux](https://github.com/sirredbeard/Awesome-WSL)|Awesome list dedicated to Windows Subsystem for Linux|
 
- 
-## Awesome X [▲](#contents)
-
+[▲ back to top](#contents)
+  
+## Awesome X
+  
    X | Description |
 ----|----|
 [XSS](https://github.com/s0md3v/AwesomeXSS)|This repository is a collection of Awesome XSS resources|
  
+[▲ back to top](#contents)
   
-## Awesome Y [▲](#contents)
+## Awesome Y
 
    Y | Description |
 ----|----| 
 [Yara](https://github.com/InQuest/awesome-yara)|A curated list of awesome YARA rules, tools, and people|
 
-## Awesome Z [▲](#contents)
+[▲ back to top](#contents)
+   
+## Awesome Z
 
    Z | Description |
 ----|----|
 [ZSH](https://github.com/unixorn/awesome-zsh-plugins)|A collection of ZSH frameworks, plugins, themes and tutorials
- 
+
+[▲ back to top](#contents)
